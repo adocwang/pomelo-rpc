@@ -4,3 +4,4 @@ coverage.html
 lib-cov/
 coverage.html
 .idea/
+package-lock.json
